@@ -28,9 +28,6 @@ export default function Hero() {
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
               Words fade, code endures.
             </p>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
-            Custom software that solves your unique challenges.
-          </p>
 
             {/*<div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">*/}
             {/*  <div data-aos="fade-up" data-aos-delay="400">*/}
