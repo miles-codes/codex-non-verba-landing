@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Open PRO',
+  title: 'Codex Non Verba',
   description: 'Page description',
 }
 
